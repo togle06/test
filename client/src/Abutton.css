@@ -1,0 +1,28 @@
+div {
+  width: 40%;
+  position: relative;
+}
+div::after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+div img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.square {
+  position: relative;
+}
+.square::after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+.square img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}

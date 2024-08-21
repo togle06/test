@@ -1,0 +1,31 @@
+.example-custom-input {
+  /* background-color: #dadee6; */
+  /* background-color: #282c34; */
+  /* color: white; */
+  cursor: pointer;
+  width: 100px;
+  height: 25px;
+  padding: 0px;
+  margin-bottom: 5px;
+  text-align: center;
+
+}
+
+.example-custom-input1 {
+  /* background-color: #282c34; */
+  /* background-color: #dadee6; */
+  /* color: white; */
+  cursor: pointer;
+  width: 150px;
+  height: 25px;
+  padding: 0px;
+  margin-bottom: 5px;
+  margin-left : 5px;
+  text-align: center;
+
+}
+
+/* margin-top: 10px;
+margin-right: 20px;
+margin-bottom: 15px;
+margin-left: 5px; */
